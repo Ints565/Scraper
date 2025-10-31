@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local files
+.env
+.env.*
+*.log
+failed_urls.txt
+laptop_prices.csv
+
+# Credentials (do not commit keys)
+*.json
+!README.md
